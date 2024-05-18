@@ -5,7 +5,6 @@ import os
 import openai
 from io import BytesIO
 
-# Directly set the OpenAI API key
 OPENAI_API_KEY = 'sk-proj-COOaWbFJMfj2cgnWtZS7T3BlbkFJum6DEUSH0n5l9jrVg3A5'
 
 def text_extract(file):
